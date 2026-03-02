@@ -1,0 +1,3 @@
+C:/Users/laura/Documents/GitHub/paralela/build-mingw/CMakeFiles/paralela.dir
+C:/Users/laura/Documents/GitHub/paralela/build-mingw/CMakeFiles/edit_cache.dir
+C:/Users/laura/Documents/GitHub/paralela/build-mingw/CMakeFiles/rebuild_cache.dir

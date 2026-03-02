@@ -1,0 +1,10 @@
+^C:\USERS\LAURA\DOCUMENTS\GITHUB\PARALELA\BUILD\CMAKEFILES\3B51C90ACD7BC1A2B434A7FCC2A2D4DD\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\18\Insiders\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/laura/Documents/GitHub/paralela -BC:/Users/laura/Documents/GitHub/paralela/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/laura/Documents/GitHub/paralela/build/paralela.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

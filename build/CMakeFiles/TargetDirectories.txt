@@ -1,0 +1,3 @@
+C:/Users/laura/Documents/GitHub/paralela/build/CMakeFiles/paralela.dir
+C:/Users/laura/Documents/GitHub/paralela/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/laura/Documents/GitHub/paralela/build/CMakeFiles/ZERO_CHECK.dir
